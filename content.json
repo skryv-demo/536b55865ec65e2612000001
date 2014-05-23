@@ -1,1 +1,20 @@
-{}
+{
+    "few_choices": {
+        "hard_soft": {}
+    },
+    "many_choices": {
+        "light_dark": {}
+    },
+    "yes_no_choice": {},
+    "yes_no_multichoice": {
+        "selectedChoices": {}
+    },
+    "__comments__": [
+        {
+            "message": "Wat is dat nu voor een vraag?",
+            "user": "test@skryv.com",
+            "created": "2014-05-23T12:01:32.664Z",
+            "on": "few_choices"
+        }
+    ]
+}
