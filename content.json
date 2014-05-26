@@ -1,6 +1,7 @@
 {
     "few_choices": {
-        "hard_soft": {}
+        "hard_soft": {},
+        "selectedChoice": "Paardenoog"
     },
     "many_choices": {
         "light_dark": {}
