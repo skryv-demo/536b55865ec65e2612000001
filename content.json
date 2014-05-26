@@ -8,7 +8,11 @@
     },
     "yes_no_choice": {},
     "yes_no_multichoice": {
-        "selectedChoices": {}
+        "selectedChoices": {
+            "Ben je wel eens verkouden?": true
+        },
+        "frequency": 5,
+        "medicatie": "dsvdsvds"
     },
     "__comments__": [
         {
