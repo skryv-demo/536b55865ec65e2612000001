@@ -7,7 +7,10 @@
         "light_dark": {},
         "selectedChoice": "Geel"
     },
-    "yes_no_choice": {},
+    "yes_no_choice": {
+        "selectedChoice": "Ja",
+        "allergy": "noten"
+    },
     "yes_no_multichoice": {
         "selectedChoices": {
             "Ben je wel eens verkouden?": true
