@@ -4,7 +4,8 @@
         "selectedChoice": "Paardenoog"
     },
     "many_choices": {
-        "light_dark": {}
+        "light_dark": {},
+        "selectedChoice": "Geel"
     },
     "yes_no_choice": {},
     "yes_no_multichoice": {
